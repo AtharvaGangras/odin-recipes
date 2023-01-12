@@ -1,0 +1,48 @@
+.title,h2,h3{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:center;
+    color:black;
+    font-size:50px;
+    font-weight: bold;
+    font-style: italic;
+    background-color: red;
+    
+
+}
+h3{
+    font-size: 40px;
+}
+
+.page{
+    background-color: greenyellow;
+
+}
+#main{
+    font-weight: bolder;
+    font-size: 70px;
+    font-style:normal;
+    font-family:'Times New Roman', Times, serif;
+}
+div{
+    text-align: center;
+}
+.unlist,.orlist,p{
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style : italic;
+}
+.unlist{
+    text-align: center;
+}
+
+img{
+    width:700px;
+    height:auto;
+}
+div{
+    text-align:center;
+}
+p{
+    font-weight: 900;
+    color:blue;
+}
